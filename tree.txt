@@ -40,6 +40,7 @@
 │       │       └── binary-i386
 │       │           ├── Packages
 │       │           └── Packages.gz
+│       ├── InRelease
 │       ├── main
 │       │   ├── binary-amd64
 │       │   │   ├── Packages
@@ -100,7 +101,16 @@
 │       │       └── binary-i386
 │       │           ├── Packages
 │       │           └── Packages.gz
-│       └── Release
-└── tree.txt
+│       ├── Release
+│       └── Release.gpg
+├── key.txt
+├── pool
+│   └── main
+│       └── o
+│           └── openport
+│               └── openport_1.0-1_all.deb
+├── README.md
+├── tree.txt
+└── up.sh
 
-34 directories, 69 files
+38 directories, 75 files
