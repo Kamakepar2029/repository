@@ -1,0 +1,14 @@
+Package: openport
+Version: 1.0-1
+Architecture: all
+Depends: bash, firewall-cmd
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/o/openport/openport_1.0-1_all.deb
+Size: 1228
+SHA256: 5a6ecdd8bde7f2f550c52e16b269a3041cc21dda14bb4d8df9a46da48c799208
+SHA1: 82d2a0d84d5de1327f0e824154a4c9ceff5c6239
+MD5sum: eed775174971740aefc2d3d58d6e877c
+Description: Open ports online
+
