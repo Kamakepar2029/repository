@@ -1,0 +1,106 @@
+.
+├── conf
+│   └── distributions
+├── db
+│   ├── checksums.db
+│   ├── contents.cache.db
+│   ├── packages.db
+│   ├── references.db
+│   ├── release.caches.db
+│   └── version
+├── dists
+│   └── all
+│       ├── contrib
+│       │   ├── binary-amd64
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-arm
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-armhf
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-i386
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   └── debian-installer
+│       │       ├── binary-amd64
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       ├── binary-arm
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       ├── binary-armhf
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       └── binary-i386
+│       │           ├── Packages
+│       │           └── Packages.gz
+│       ├── main
+│       │   ├── binary-amd64
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-arm
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-armhf
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-i386
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   └── debian-installer
+│       │       ├── binary-amd64
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       ├── binary-arm
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       ├── binary-armhf
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       └── binary-i386
+│       │           ├── Packages
+│       │           └── Packages.gz
+│       ├── non-free
+│       │   ├── binary-amd64
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-arm
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-armhf
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   ├── binary-i386
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
+│       │   └── debian-installer
+│       │       ├── binary-amd64
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       ├── binary-arm
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       ├── binary-armhf
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
+│       │       └── binary-i386
+│       │           ├── Packages
+│       │           └── Packages.gz
+│       └── Release
+└── tree.txt
+
+34 directories, 69 files

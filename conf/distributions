@@ -1,0 +1,10 @@
+Origin: Debian
+Suite: all
+AlsoAcceptFor: unstable experimental
+Codename: all
+Version: 5.0
+Architectures: i386 amd64 armhf arm
+Components: main contrib non-free
+UDebComponents: main contrib non-free
+Description: Kama Kepar Repo
+SignWith: 58EA4C57A727C57DA228F8F5F41E2114FB9C7E30
