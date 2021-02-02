@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: Debian
 Suite: all
 Codename: all
@@ -189,3 +192,19 @@ SHA256:
  92edfa4676ad98ca0d5250dbeb332da4036781657a3c87d047ba6c657cb57335 108 non-free/binary-arm/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/debian-installer/binary-arm/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/debian-installer/binary-arm/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEWOpMV6cnxX2iKPj19B4hFPucfjAFAmAZnRYACgkQ9B4hFPuc
+fjC77BAAtiDqeiSh1kJZWDRnGtMmdglqZUjJfZWNTAWcfxwY8FErehKGK26vtp0O
+KsvdS+kkJe5OB8mGUv12lNt1M65tnDHtUsDkiLWFledBNP96corDxkDvNnku1APg
+B8YTq6OgYBnseGoP8FeD3gJJzuRZMeWoWVrdamhLQXGPKbSjJr4kT1RM8P+yrN6G
+LOYJFpS27CHVCG4UxhXLVz2mi5JUJrHLt91ac3yRDT6YzrjVCwT+YCPlxXirL3oD
+ebsmyuKHGUYwNiNlU31ZEhpeAUoNodxu3xgjOUswzU66RkQ4lRO3zG/KIHy6HvM2
+vF24ZarAnTb+c7IXabaj4zJeaYkreGRDtxloRWItsx/6ViRAmrY7CAYJb8kF9fVv
+xuhnDMpMCo639uDOSkyiuQMPT56/TFge/ey2zQvUwR4D0ZiF4Av4xxmyiZBLLFTG
++swKCmtOWtLD6uj9T9GT5ZYYC3dxyBMuEZdMvxk7sI9NV+ZZfgaKkYZWCtoIljpr
+a8fsYf4d1lItPhFxZSCoaie06cL61RpJ8JraGcEl+iPvqlqpSudRH7QNKgKe4gf1
+ZkycF5B35k2rKV8c4VPWAdvYdiLsfA2lkaK3r7Txz9YFs3SxizqoE0bhSDJ0Xy/2
+VFVhwi7cDLpHo1jt476nX3rrAd1qAn2xHrZ6uC0KFzoYIIXv6Qo=
+=ogWh
+-----END PGP SIGNATURE-----
