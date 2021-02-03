@@ -27,16 +27,16 @@ MD5sum: fa8bf23403277b59fa3af6d18b361797
 Description: Package is needed to monitor the memmory
 
 Package: ttermonitor
-Version: 1.0-1
+Version: 1.0-2
 Architecture: all
 Depends: bash, python
 Maintainer: Kama Kepar <support@kamakepar.ru>
 Priority: include*
 Section: misc
-Filename: pool/main/t/ttermonitor/ttermonitor_1.0-1_all.deb
-Size: 3920
-SHA256: eb230fa26637871afaa4f1fbc95189249b711b94340dba4597b7b5a43ceb8497
-SHA1: 7de6b149657a037f793a6c7b468446f33b02f7bd
-MD5sum: 7804b3ea245e7fdab9e968f1cff94c7e
+Filename: pool/main/t/ttermonitor/ttermonitor_1.0-2_all.deb
+Size: 4076
+SHA256: f23c96bf86b39613fee332dbd37e3723778f0dbaf44c93f0fd1545b4f16d44c3
+SHA1: c275d4ee58d4f3f454178c5ad320afdea1b31727
+MD5sum: ceefe44cf2bc7d57a3de2f9138fd0b2c
 Description: ttermonitor is a Termux Package, which is needed to monitor the memmory
 
