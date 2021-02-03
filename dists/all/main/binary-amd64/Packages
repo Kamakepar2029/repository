@@ -26,6 +26,20 @@ SHA1: 82d2a0d84d5de1327f0e824154a4c9ceff5c6239
 MD5sum: eed775174971740aefc2d3d58d6e877c
 Description: Open ports online
 
+Package: tdebmaker
+Version: 1.0-1
+Architecture: all
+Depends: dpkg,debconf,debhelper,lintian
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/t/tdebmaker/tdebmaker_1.0-1_all.deb
+Size: 1712
+SHA256: a3cb18215c184508424b55f51223b9c6905a60ce0c8f170e57d8e1801c3b4ce2
+SHA1: 229020a330d8b551b6d5058508acd10138968bf7
+MD5sum: 67f5e434623935714a8e9b930871e42f
+Description: Termux DebMaker package. Can make .deb packages easily
+
 Package: termonitor
 Version: 1.0-2
 Architecture: all
