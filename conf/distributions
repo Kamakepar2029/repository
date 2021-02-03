@@ -3,7 +3,7 @@ Suite: all
 AlsoAcceptFor: unstable experimental
 Codename: all
 Version: 5.0
-Architectures: i386 amd64 armhf arm
+Architectures: i386 amd64 armhf arm aarch64
 Components: main contrib non-free
 UDebComponents: main contrib non-free
 Description: Kama Kepar Repo

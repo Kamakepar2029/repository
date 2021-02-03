@@ -12,6 +12,10 @@
 ├── dists
 │   └── all
 │       ├── contrib
+│       │   ├── binary-aarch64
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
 │       │   ├── binary-amd64
 │       │   │   ├── Packages
 │       │   │   ├── Packages.gz
@@ -29,6 +33,9 @@
 │       │   │   ├── Packages.gz
 │       │   │   └── Release
 │       │   └── debian-installer
+│       │       ├── binary-aarch64
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
 │       │       ├── binary-amd64
 │       │       │   ├── Packages
 │       │       │   └── Packages.gz
@@ -43,6 +50,10 @@
 │       │           └── Packages.gz
 │       ├── InRelease
 │       ├── main
+│       │   ├── binary-aarch64
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
 │       │   ├── binary-amd64
 │       │   │   ├── Packages
 │       │   │   ├── Packages.gz
@@ -60,6 +71,9 @@
 │       │   │   ├── Packages.gz
 │       │   │   └── Release
 │       │   └── debian-installer
+│       │       ├── binary-aarch64
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
 │       │       ├── binary-amd64
 │       │       │   ├── Packages
 │       │       │   └── Packages.gz
@@ -73,6 +87,10 @@
 │       │           ├── Packages
 │       │           └── Packages.gz
 │       ├── non-free
+│       │   ├── binary-aarch64
+│       │   │   ├── Packages
+│       │   │   ├── Packages.gz
+│       │   │   └── Release
 │       │   ├── binary-amd64
 │       │   │   ├── Packages
 │       │   │   ├── Packages.gz
@@ -90,6 +108,9 @@
 │       │   │   ├── Packages.gz
 │       │   │   └── Release
 │       │   └── debian-installer
+│       │       ├── binary-aarch64
+│       │       │   ├── Packages
+│       │       │   └── Packages.gz
 │       │       ├── binary-amd64
 │       │       │   ├── Packages
 │       │       │   └── Packages.gz
@@ -126,4 +147,4 @@
 ├── tree.txt
 └── up.sh
 
-44 directories, 82 files
+50 directories, 97 files

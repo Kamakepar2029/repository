@@ -1,0 +1,70 @@
+Package: debmaker
+Version: 1.0-1
+Architecture: all
+Depends: dpkg,debconf,debhelper,lintian
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/d/debmaker/debmaker_1.0-1_all.deb
+Size: 1708
+SHA256: 75dcc478faf75d0b55ccdf02e71b808acde4c5c11f278ad77414cbb7089dd3b5
+SHA1: 57fe5ae9864644a7702bd9f8a6063ec247ab5a55
+MD5sum: 4fc27522734d1e7349174a6ffe82e56b
+Description: DebMaker package. Can make .deb packages easily
+
+Package: openport
+Version: 1.0-1
+Architecture: all
+Depends: bash, firewall-cmd
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/o/openport/openport_1.0-1_all.deb
+Size: 1228
+SHA256: 5a6ecdd8bde7f2f550c52e16b269a3041cc21dda14bb4d8df9a46da48c799208
+SHA1: 82d2a0d84d5de1327f0e824154a4c9ceff5c6239
+MD5sum: eed775174971740aefc2d3d58d6e877c
+Description: Open ports online
+
+Package: tdebmaker
+Version: 1.0-1
+Architecture: all
+Depends: dpkg,debconf,debhelper,lintian
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/t/tdebmaker/tdebmaker_1.0-1_all.deb
+Size: 1712
+SHA256: a3cb18215c184508424b55f51223b9c6905a60ce0c8f170e57d8e1801c3b4ce2
+SHA1: 229020a330d8b551b6d5058508acd10138968bf7
+MD5sum: 67f5e434623935714a8e9b930871e42f
+Description: Termux DebMaker package. Can make .deb packages easily
+
+Package: termonitor
+Version: 1.0-2
+Architecture: all
+Depends: bash, python
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/t/termonitor/termonitor_1.0-2_all.deb
+Size: 3856
+SHA256: 163839f3d562035f72417a3f9ee3dde0c3d6dabb17d7460af28775c009fd86ec
+SHA1: d8fe6162e0dac4a5ddf209ac1cd5c11c9dd109e4
+MD5sum: fa8bf23403277b59fa3af6d18b361797
+Description: Package is needed to monitor the memmory
+
+Package: ttermonitor
+Version: 1.0-3
+Architecture: all
+Depends: bash, python
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/t/ttermonitor/ttermonitor_1.0-3_all.deb
+Size: 4088
+SHA256: c456ebcf99ff4dbaa8a84dff260f3db381852e6b9158f31cb3301a9151dd1792
+SHA1: adbe146ccaf6378b5e3ac5ab1fa751f599af0f2f
+MD5sum: 3afda36584cabc2eda875f87096bfe16
+Description: ttermonitor is a Termux Package, which is needed to monitor the memmory
+
