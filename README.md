@@ -13,3 +13,15 @@ gpg --keyserver keyserver.ubuntu.com --recv-keys F41E2114FB9C7E30
 gpg --export F41E2114FB9C7E30 | apt-key add -
 apt update
 ```
+
+# Packages For Termux
+```bash
+ttermonitor - Program to monitor your memory in Termux
+tdebmaker - Program to make .deb files
+```
+
+#Packages For GNU/Linux
+```bash
+termonitor - Program to monitor your memmory in Linux
+debmaker - Program to make .deb files
+```
