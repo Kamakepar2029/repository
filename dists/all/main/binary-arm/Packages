@@ -13,16 +13,16 @@ MD5sum: eed775174971740aefc2d3d58d6e877c
 Description: Open ports online
 
 Package: termonitor
-Version: 1.0-1
+Version: 1.0-2
 Architecture: all
 Depends: bash, python
 Maintainer: Kama Kepar <support@kamakepar.ru>
 Priority: include*
 Section: misc
-Filename: pool/main/t/termonitor/termonitor_1.0-1_all.deb
-Size: 3872
-SHA256: 2f89fceb46fa950c90613cb98b62fd3f6c4d232d6e01f76299a8891a89d1c9cc
-SHA1: 4a8df8fd42fbb322ab6359d45f7cc6a710052c10
-MD5sum: 365cee74e3226a7c69b57bb78755a996
+Filename: pool/main/t/termonitor/termonitor_1.0-2_all.deb
+Size: 3856
+SHA256: 163839f3d562035f72417a3f9ee3dde0c3d6dabb17d7460af28775c009fd86ec
+SHA1: d8fe6162e0dac4a5ddf209ac1cd5c11c9dd109e4
+MD5sum: fa8bf23403277b59fa3af6d18b361797
 Description: Package is needed to monitor the memmory
 
