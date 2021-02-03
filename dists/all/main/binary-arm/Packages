@@ -1,3 +1,17 @@
+Package: debmaker
+Version: 1.0-1
+Architecture: all
+Depends: dpkg,debconf,debhelper,lintian
+Maintainer: Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/d/debmaker/debmaker_1.0-1_all.deb
+Size: 1708
+SHA256: 75dcc478faf75d0b55ccdf02e71b808acde4c5c11f278ad77414cbb7089dd3b5
+SHA1: 57fe5ae9864644a7702bd9f8a6063ec247ab5a55
+MD5sum: 4fc27522734d1e7349174a6ffe82e56b
+Description: DebMaker package. Can make .deb packages easily
+
 Package: openport
 Version: 1.0-1
 Architecture: all
