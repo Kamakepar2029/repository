@@ -12,6 +12,20 @@ SHA1: 57fe5ae9864644a7702bd9f8a6063ec247ab5a55
 MD5sum: 4fc27522734d1e7349174a6ffe82e56b
 Description: DebMaker package. Can make .deb packages easily
 
+Package: framework2
+Version: 1.0-1
+Architecture: all
+Depends: bash, perl
+Maintainer: Metasploit&Kama Kepar <support@kamakepar.ru>
+Priority: include*
+Section: misc
+Filename: pool/main/f/framework2/framework2_1.0-1_all.deb
+Size: 2270972
+SHA256: ce50f9dad708237fc633cbfc3c42e3dc3b3d3267a2193bdba317b7f402271a2a
+SHA1: c0ca4f6b16d63504f65298c252735ac1ab4fbb1c
+MD5sum: 02e0606d74340ecbcabe8cc8c3d8f916
+Description: Framework2 is a Termux Package - an oldest version of metasploit
+
 Package: openport
 Version: 1.0-1
 Architecture: all
